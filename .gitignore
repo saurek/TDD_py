@@ -1,0 +1,7 @@
+env
+db.sqlite
+.idea
+*.pyc
+__pycache__
+geckodriver.log
+superlists/db.sqlite3
